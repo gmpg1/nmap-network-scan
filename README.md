@@ -2,13 +2,17 @@
 network scanning and port analysis using nmap
 
 Nmap Network Scan Lab
+
 Objective
+
 -To perform network scanning and identify open ports and services on a local network.
 
 Tools Used
+
 -Nmap
 
 Steps Performed
+
 1.Installed Nmap on Windows
 2. Ran a TCP SYN scan on the local router:
     -nmap -sS 192.168.1.1
@@ -16,6 +20,7 @@ Steps Performed
 4. Analyzed potential security risks
 
 Findings
+
 -Port 80 (HTTP) was open
 -Port 443 (HTTPS) was open
 These ports indicate a web interface is accessible
