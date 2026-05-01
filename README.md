@@ -21,6 +21,7 @@ Findings
 These ports indicate a web interface is accessible
 
 Screenshots
+![Nmap Scan](image.png)
 
 Security Risks Identified
 -Open HTTP port (80) may transmit data in plaintext, making it vulnerable to interception (e.g., packet sniffing via Wireshark)
